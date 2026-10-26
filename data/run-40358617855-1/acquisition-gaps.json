@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "cheyenne-udc",
+    "status": "acquisition_or_extraction_unresolved",
+    "reason": "HTTPError: HTTP Error 403: Forbidden",
+    "required": false
+  },
+  {
+    "source_id": "laramie-lur-2025",
+    "status": "acquisition_or_extraction_unresolved",
+    "reason": "HTTPError: HTTP Error 403: Forbidden",
+    "required": false
+  },
+  {
+    "source_id": "laramie-lur-prior",
+    "status": "acquisition_or_extraction_unresolved",
+    "reason": "HTTPError: HTTP Error 403: Forbidden",
+    "required": false
+  }
+]

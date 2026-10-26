@@ -1,0 +1,186 @@
+{
+  "schema": "civic-law-seed-v1",
+  "status": "bounded_seed_not_complete_legal_coverage",
+  "authorities": [
+    {
+      "id": "wy-title-16",
+      "title": "Wyoming Statutes Title 16",
+      "jurisdiction": "state",
+      "kind": "statutes",
+      "url": "https://wyoleg.gov/statutes/compress/title16.pdf",
+      "required": true,
+      "resolved_url": "https://wyoleg.gov/statutes/compress/title16.pdf",
+      "retrieved_at": "2026-10-26T16:25:14.176116+00:00",
+      "effective_from": null,
+      "effective_to": null,
+      "historical_applicability": "not_verified",
+      "precedential_status": "not_applicable",
+      "original_pdf": {
+        "bytes": 682992,
+        "sha256": "a8e337b72c2e9d5d2a12388753e52f63a3852af2a5ab4b572921c526333eaa01",
+        "parts": [
+          {
+            "path": "blobs/a8e337b72c2e9d5d2a12388753e52f63a3852af2a5ab4b572921c526333eaa01.part",
+            "bytes": 682992,
+            "sha256": "a8e337b72c2e9d5d2a12388753e52f63a3852af2a5ab4b572921c526333eaa01"
+          }
+        ]
+      },
+      "extracted_text": {
+        "bytes": 407625,
+        "sha256": "529eac2a10df327a6c2092d551f2249d3e27c5c1d4348e9d00dcac07cf856550",
+        "parts": [
+          {
+            "path": "blobs/529eac2a10df327a6c2092d551f2249d3e27c5c1d4348e9d00dcac07cf856550.part",
+            "bytes": 407625,
+            "sha256": "529eac2a10df327a6c2092d551f2249d3e27c5c1d4348e9d00dcac07cf856550"
+          }
+        ]
+      },
+      "extraction": "pdftotext layout; original PDF retained; line/page interpretation requires review"
+    },
+    {
+      "id": "wy-civil-rules",
+      "title": "Wyoming Rules of Civil Procedure, published effective September 21 2026",
+      "jurisdiction": "state",
+      "kind": "court_rules",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/01/WY-Rules-of-Civ.-Procedure-Eff.-9-21-26.pdf",
+      "resolved_url": "https://www.wyocourts.gov/app/uploads/2025/01/WY-Rules-of-Civ.-Procedure-Eff.-9-21-26.pdf",
+      "retrieved_at": "2026-10-26T16:25:15.163450+00:00",
+      "effective_from": null,
+      "effective_to": null,
+      "historical_applicability": "not_verified",
+      "precedential_status": "not_applicable",
+      "original_pdf": {
+        "bytes": 1223362,
+        "sha256": "a22efdb9680278b9c4fb388eefaf65fb7136cf2e8a95347c9811d32d4bd42adb",
+        "parts": [
+          {
+            "path": "blobs/a22efdb9680278b9c4fb388eefaf65fb7136cf2e8a95347c9811d32d4bd42adb.part",
+            "bytes": 1223362,
+            "sha256": "a22efdb9680278b9c4fb388eefaf65fb7136cf2e8a95347c9811d32d4bd42adb"
+          }
+        ]
+      },
+      "extracted_text": {
+        "bytes": 1174390,
+        "sha256": "fef457faece9d4a479a3d211b3ce4cca258e587bb74b2d796b4fc51301d94d54",
+        "parts": [
+          {
+            "path": "blobs/fef457faece9d4a479a3d211b3ce4cca258e587bb74b2d796b4fc51301d94d54.part",
+            "bytes": 1174390,
+            "sha256": "fef457faece9d4a479a3d211b3ce4cca258e587bb74b2d796b4fc51301d94d54"
+          }
+        ]
+      },
+      "extraction": "pdftotext layout; original PDF retained; line/page interpretation requires review"
+    },
+    {
+      "id": "us-constitution-116sdoc3",
+      "title": "United States Constitution and Declaration, Senate Document 116-3",
+      "jurisdiction": "federal",
+      "kind": "constitution_publication",
+      "url": "https://www.govinfo.gov/content/pkg/CDOC-116sdoc3/pdf/CDOC-116sdoc3.pdf",
+      "required": true,
+      "resolved_url": "https://www.govinfo.gov/content/pkg/CDOC-116sdoc3/pdf/CDOC-116sdoc3.pdf",
+      "retrieved_at": "2026-10-26T16:25:16.522656+00:00",
+      "effective_from": null,
+      "effective_to": null,
+      "historical_applicability": "not_verified",
+      "precedential_status": "not_applicable",
+      "original_pdf": {
+        "bytes": 641636,
+        "sha256": "b7f5dd2a8fc3d45b9faa38030197ae8c1477af1e4a29d652e68d9fbeb5696d39",
+        "parts": [
+          {
+            "path": "blobs/b7f5dd2a8fc3d45b9faa38030197ae8c1477af1e4a29d652e68d9fbeb5696d39.part",
+            "bytes": 641636,
+            "sha256": "b7f5dd2a8fc3d45b9faa38030197ae8c1477af1e4a29d652e68d9fbeb5696d39"
+          }
+        ]
+      },
+      "extracted_text": {
+        "bytes": 80765,
+        "sha256": "4cba896a94ec6eeea17559dae66f0b171cb71d7e228f4479eaba67fd5bd5be71",
+        "parts": [
+          {
+            "path": "blobs/4cba896a94ec6eeea17559dae66f0b171cb71d7e228f4479eaba67fd5bd5be71.part",
+            "bytes": 80765,
+            "sha256": "4cba896a94ec6eeea17559dae66f0b171cb71d7e228f4479eaba67fd5bd5be71"
+          }
+        ]
+      },
+      "extraction": "pdftotext layout; original PDF retained; line/page interpretation requires review"
+    },
+    {
+      "id": "scotus-georgia-pro",
+      "title": "Georgia v. Public.Resource.Org, April 27 2020 slip opinion",
+      "jurisdiction": "federal",
+      "kind": "judicial_opinion",
+      "url": "https://www.supremecourt.gov/opinions/19pdf/18-1150_7m58.pdf",
+      "reported_citation": "590 U.S. 255",
+      "case_scope": "Government-edicts copyright research; applicability and subsequent treatment not verified",
+      "resolved_url": "https://www.supremecourt.gov/opinions/19pdf/18-1150_7m58.pdf",
+      "retrieved_at": "2026-10-26T16:25:17.390065+00:00",
+      "effective_from": null,
+      "effective_to": null,
+      "historical_applicability": "not_verified",
+      "precedential_status": "not_citator_verified",
+      "original_pdf": {
+        "bytes": 249837,
+        "sha256": "9ded90c0155c51f1b573df19db1a44cb73892118c012f1547b95d4e7cd173e86",
+        "parts": [
+          {
+            "path": "blobs/9ded90c0155c51f1b573df19db1a44cb73892118c012f1547b95d4e7cd173e86.part",
+            "bytes": 249837,
+            "sha256": "9ded90c0155c51f1b573df19db1a44cb73892118c012f1547b95d4e7cd173e86"
+          }
+        ]
+      },
+      "extracted_text": {
+        "bytes": 93719,
+        "sha256": "7d4bd61802d881c378bfc46bcebb1fccd84f1f852623fc021e5778907829e80c",
+        "parts": [
+          {
+            "path": "blobs/7d4bd61802d881c378bfc46bcebb1fccd84f1f852623fc021e5778907829e80c.part",
+            "bytes": 93719,
+            "sha256": "7d4bd61802d881c378bfc46bcebb1fccd84f1f852623fc021e5778907829e80c"
+          }
+        ]
+      },
+      "extraction": "pdftotext layout; original PDF retained; line/page interpretation requires review"
+    }
+  ],
+  "records_scanned": 6065,
+  "explicit_citation_edges": 8397,
+  "edges_with_seed_candidates": 847,
+  "unresolved_edges": 7550,
+  "legal_index_gzip": {
+    "bytes": 2485767,
+    "sha256": "bfe72d14a9b2d893e9085acd65410b9061cbdd8729bfb0815187af1c13c1896b",
+    "parts": [
+      {
+        "path": "blobs/bfe72d14a9b2d893e9085acd65410b9061cbdd8729bfb0815187af1c13c1896b.part",
+        "bytes": 2485767,
+        "sha256": "bfe72d14a9b2d893e9085acd65410b9061cbdd8729bfb0815187af1c13c1896b"
+      }
+    ]
+  },
+  "source_dataset_revision": "2465245db04551c42f748a85fc151b869d246649",
+  "source_manifest_sha256": "94b5c51a634350e0e2dec90bde46c59bc1f7bda37c6c8e831354a1aee38077ee",
+  "coverage_files": [
+    "record-coverage.jsonl.gz",
+    "crossreferences.jsonl.gz",
+    "acquisition-gaps.json"
+  ],
+  "scope_gaps": [
+    "municipal code/amendment completeness unverified",
+    "county completeness unverified",
+    "other state titles and historical versions not ingested",
+    "federal statutory/regulatory coverage incomplete",
+    "case law and subsequent treatment incomplete",
+    "lawsuit docket/filing ingestion not implemented",
+    "no legal conclusions or comprehensive implicit-framework detection"
+  ],
+  "writes_to_existing_repositories": false
+}
