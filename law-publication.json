@@ -1,0 +1,10 @@
+{
+  "schema": "civic-law-publication-v1",
+  "status": "bounded_seed_not_complete_legal_coverage",
+  "revision": "7d54b4c66ec3ae566a06a8826d8125f0295f42a2",
+  "base_url": "https://raw.githubusercontent.com/bartimoussmith-oss/civic-newsroom-law-001/7d54b4c66ec3ae566a06a8826d8125f0295f42a2/data/run-40358617855-1/",
+  "collection_sha256": "98bf9c411ee8603ae35f0f23dfcab3a23cb36feb5f26d99adac0b25eda2b28b6",
+  "records_scanned": 6065,
+  "authorities_stored": 4,
+  "controlling_law_complete": false
+}
